@@ -1,0 +1,27 @@
+DS3218 specifications:
+DS3218MG Servo can be commonly used in robots, mechanical arms, climbing cars and remote control toys. The main features are fast heat dissipation, big torque high compatibility, sensitive and responsive ect. Good choice for university professors and students who are interested in developing software for robot parts.
+
+Features:
+Wide operating voltage-4.8V to 6.8V
+High-precision metal gears with hard anodizing 
+High sensitivity and responsiveness, flexible operation
+CNC aluminium and plastic shell, waterproof rubber seals screws 
+Perfectly for robots, mechanical arms, climbing cars and remote control toys
+
+Specifications:
+Brand: DSSERVO
+Model: DS3218MG
+Item Name: DS3218MG Digital Servo
+Dead Band: 3μsec
+Operating Voltage: 4.8V~6.8Volts 
+Operating Speed (5V): 0.16sec / 60° at no load
+Operating Speed (6.8V): 0.14sec / 60° at no load
+Stall Torque (5V): 19 kg/cm (263.8oz/in)
+Stall Torque (6.8V): 21.5 kg/cm (298.5 oz/in)
+Motor Type: DC Motor
+Gear Type: Copper & Aluminum
+Working Frequency: 1520μs / 333hz
+CE Certification: Yes
+Weight: 60g
+Size: 40.5 * 40 * 20mm
+
