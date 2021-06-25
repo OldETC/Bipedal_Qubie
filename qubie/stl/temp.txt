@@ -1,0 +1,97 @@
+-rw-rw-r-- 1 lesh lesh       0 Jun  3 11:35 temp.txt
+-rw-rw-r-- 1 lesh lesh  199799 Jun  2 16:17 pivotingservobracket.stl
+-rw-rw-r-- 1 lesh lesh  132009 Jun  2 16:17 neckExtension.stl
+-rw-rw-r-- 1 lesh lesh 6888274 Jun  2 16:17 MyBiped.stl
+-rw-rw-r-- 1 lesh lesh   46435 Jun  2 16:17 mainservobracket.stl
+-rw-rw-r-- 1 lesh lesh  221569 Jun  2 16:17 iShoulder.stl
+-rw-rw-r-- 1 lesh lesh  113647 Jun  2 16:17 improvedShoulder.stl
+-rw-rw-r-- 1 lesh lesh   77762 Jun  2 16:17 gazeboServoBlock.stl
+-rw-rw-r-- 1 lesh lesh  434249 Jun  3 11:34 gazeboRightShoulderCrank.stl
+-rw-rw-r-- 1 lesh lesh  615469 Jun  2 16:17 gazeboRighthiptiltassy.stl
+-rw-rw-r-- 1 lesh lesh  527777 Jun  2 16:17 gazeboRightHipPivot.stl
+-rw-rw-r-- 1 lesh lesh  261514 Jun  2 16:17 gazeboRightFoot.stl
+-rw-rw-r-- 1 lesh lesh  337228 Jun  2 16:17 gazeboRightAnkleRoll.stl
+-rw-rw-r-- 1 lesh lesh  426918 Jun  3 11:34 gazeboLeftShoulderCrank.stl
+-rw-rw-r-- 1 lesh lesh  529556 Jun  2 16:17 gazeboLefthiptiltassy.stl
+-rw-rw-r-- 1 lesh lesh  443208 Jun  2 16:17 gazeboLeftHipPivot.stl
+-rw-rw-r-- 1 lesh lesh  359666 Jun  2 16:17 gazeboleftHipPivot.stl
+-rw-rw-r-- 1 lesh lesh  256386 Jun  2 16:17 gazeboLeftFoot.stl
+-rw-rw-r-- 1 lesh lesh  337952 Jun  2 16:17 gazeboLeftAnkleRoll.stl
+-rw-rw-r-- 1 lesh lesh 3163565 Jun  2 18:30 gazeboHead.stl
+-rw-rw-r-- 1 lesh lesh  324263 Jun  2 16:17 gazebobracketpair.stl
+-rw-rw-r-- 1 lesh lesh 5313395 Jun  2 16:17 gazeboBody.stl
+-rw-rw-r-- 1 lesh lesh   78315 Jun  2 16:17 DS3218.stl
+-rw-rw-r-- 1 lesh lesh  179284 Jun  2 16:17 body.stl
+-rw-rw-r-- 1 lesh lesh 1298571 Jun  2 16:17 bodycover.stl
+-rw-rw-r-- 1 lesh lesh 5000861 Jun  2 16:17 BodyAssembly.stl
+-rw-rw-r-- 1 lesh lesh   46435 Jun  2 16:17 3218MainBracket.stl
+
+minigripper:
+total 2212
+-rw-rw-r-- 1 lesh lesh  45784 Jun  2 16:17 servowristcover.stl
+-rw-rw-r-- 1 lesh lesh 540587 Jun  2 16:17 servocongear.stl
+-rw-rw-r-- 1 lesh lesh  86049 Jun  2 16:17 pivotplate.stl
+-rw-rw-r-- 1 lesh lesh  64607 Jun  2 16:17 pivotplatecap.stl
+-rw-rw-r-- 1 lesh lesh 339396 Jun  2 16:17 myminiclaw.stl
+-rw-rw-r-- 1 lesh lesh 311330 Jun  2 16:17 myclaw.stl
+-rw-rw-r-- 1 lesh lesh 130290 Jun  2 16:17 mybase.stl
+-rw-rw-r-- 1 lesh lesh  81596 Jun  2 16:17 mountingplate.stl
+-rw-rw-r-- 1 lesh lesh  98660 Jun  2 16:17 connector.stl
+-rw-rw-r-- 1 lesh lesh 539037 Jun  2 16:17 congear.stl
+drwxrwxr-x 8 lesh lesh   4096 Jun  3 11:34 ..
+drwxrwxr-x 2 lesh lesh   4096 Jun  2 16:17 .
+
+microgripper:
+total 1880
+-rw-rw-r-- 1 lesh lesh  45784 Jun  2 16:17 wristCase.stl
+-rw-rw-r-- 1 lesh lesh 540587 Jun  2 16:17 ServoConGear.stl
+-rw-rw-r-- 1 lesh lesh  86049 Jun  2 16:17 pivotPlate.stl
+-rw-rw-r-- 1 lesh lesh  64607 Jun  2 16:17 PivotPlateCap.stl
+-rw-rw-r-- 1 lesh lesh  81596 Jun  2 16:17 MountingPlate.stl
+-rw-rw-r-- 1 lesh lesh  98660 Jun  2 16:17 connector.stl
+-rw-rw-r-- 1 lesh lesh 539037 Jun  2 16:17 ConGear.stl
+-rw-rw-r-- 1 lesh lesh 311330 Jun  2 16:17 claw.stl
+-rw-rw-r-- 1 lesh lesh 130290 Jun  2 16:17 base.stl
+drwxrwxr-x 8 lesh lesh   4096 Jun  3 11:34 ..
+drwxrwxr-x 2 lesh lesh   4096 May 18 18:10 .
+
+hipassy:
+total 900
+-rw-rw-r-- 1 lesh lesh  80684 Jun  2 16:17 servodrplate.stl
+-rw-rw-r-- 1 lesh lesh 121584 Jun  2 16:17 RightHipTilt.stl
+-rw-rw-r-- 1 lesh lesh 124884 Jun  2 16:17 RightHippivot.stl
+-rw-rw-r-- 1 lesh lesh  14484 Jun  2 16:17 pivotbar.stl
+-rw-rw-r-- 1 lesh lesh  97784 Jun  2 16:17 LeftHipTilt.stl
+-rw-rw-r-- 1 lesh lesh  97684 Jun  2 16:17 LeftHippivot.stl
+-rw-rw-r-- 1 lesh lesh  21484 Jun  2 16:17 hipmount.stl
+-rw-rw-r-- 1 lesh lesh 342084 Jun  2 16:17 HipAssy.stl
+drwxrwxr-x 8 lesh lesh   4096 Jun  3 11:34 ..
+drwxrwxr-x 2 lesh lesh   4096 May 23 23:41 .
+
+head:
+total 3640
+-rw-rw-r-- 1 lesh lesh  309438 May 18 18:10 SpinPlatform.stl
+-rw-rw-r-- 1 lesh lesh   11502 May 18 18:10 servobox.stl
+-rw-rw-r-- 1 lesh lesh  128713 May 18 18:10 NeckStem.stl
+-rw-rw-r-- 1 lesh lesh  137238 May 18 18:10 Neckclamp.stl
+-rw-rw-r-- 1 lesh lesh   33054 May 18 18:10 headtiltspacer.stl
+-rw-rw-r-- 1 lesh lesh   67421 May 18 18:10 headtiltshaft.stl
+-rw-rw-r-- 1 lesh lesh 1822878 May 18 18:10 headBack.stl
+-rw-rw-r-- 1 lesh lesh    7037 May 18 18:10 Display.stl
+-rw-rw-r-- 1 lesh lesh 1181080 May 18 18:10 DisplayBezel.stl
+drwxrwxr-x 8 lesh lesh    4096 Jun  3 11:34 ..
+drwxrwxr-x 2 lesh lesh    4096 May 18 18:10 .
+
+footassembly:
+total 1676
+-rw-rw-r-- 1 lesh lesh   8258 Jun  2 16:17 shoe.stl
+-rw-rw-r-- 1 lesh lesh   3284 Jun  2 16:17 robotShoe.stl
+-rw-rw-r-- 1 lesh lesh 172604 Jun  2 16:17 robotFoot.stl
+-rw-rw-r-- 1 lesh lesh 175771 Jun  2 16:17 Lfoot.stl
+-rw-rw-r-- 1 lesh lesh 411854 Jun  2 16:17 gazeboRighttAnkleTilt.stl
+-rw-rw-r-- 1 lesh lesh 418979 Jun  2 16:17 gazeboLeftAnkleTilt.stl
+-rw-rw-r-- 1 lesh lesh 160962 Jun  2 16:17 Fservobox.stl
+-rw-rw-r-- 1 lesh lesh 172604 Jun  2 16:17 foot.stl
+-rw-rw-r-- 1 lesh lesh 160656 Jun  2 16:17 ankleServobox.stl
+drwxrwxr-x 8 lesh lesh   4096 Jun  3 11:34 ..
+drwxrwxr-x 2 lesh lesh   4096 May 23 23:39 .
